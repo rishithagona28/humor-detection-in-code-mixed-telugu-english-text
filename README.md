@@ -7,6 +7,8 @@
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-MuRIL%20%7C%20XLM--R%20%7C%20mBERT-FFD21E)
 ![Gradio](https://img.shields.io/badge/Gradio-web%20app-F97316?logo=gradio&logoColor=white)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishithagona28/humor-detection-in-code-mixed-telugu-english-text/blob/main/Humor_Detection_Demo.ipynb)
+
 ---
 
 ## 📌 Why this is hard
